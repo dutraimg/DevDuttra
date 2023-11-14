@@ -1,11 +1,11 @@
 ## 💜 Hello! My name is <strong>Carlos!</strong>
 ![](https://komarev.com/ghpvc/?username=PewDizinho&color=006bed&style=for-the-badge)
 
-> I'm currently working with some minecraft projects with JavaScript, a Discord Bot with NodeJs and some mobile apps with Dart/Flutter!
+> I'm currently working with some projects with JavaScript and C#, a Discord Bot with NodeJs and some mobile apps!
 > 
-> And taking Analysis and Systems Development classes in [UniOpet](https://www.opet.com.br/#)
+> And taking Software Engineering classes in [Univates](https://www.univates.br/)
 > 
-> 💬 If you want to get in touch, contact me on discord [PewDizinho#3014](https://cnpcscripts.com/pew) or on twitter [@PewDizinho_](https://twitter.com/PewDizinho_)! You can also look more about me in my [website](https://pewdizinho.github.io/).
+> 💬 If you want to get in touch, contact me on instagram [prd.dutra](https://www.instagram.com/prd.dutra/)! You can also look more about me in my [website]().
 
 
 
@@ -36,12 +36,12 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 
 #### Studying in this moment:
