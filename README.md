@@ -1,4 +1,4 @@
-## 💜 Hello! My name is <strong>Carlos!</strong>
+## 💜 Hello! My name is <strong>Dutra!</strong>
 ![](https://komarev.com/ghpvc/?username=PewDizinho&color=006bed&style=for-the-badge)
 
 > I'm currently working with some projects with JavaScript and C#, a Discord Bot with NodeJs and some mobile apps!
