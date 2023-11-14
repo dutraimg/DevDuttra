@@ -1,3 +1,17 @@
+## 💜 Hello! My name is <strong>Carlos!</strong>
+![](https://komarev.com/ghpvc/?username=PewDizinho&color=006bed&style=for-the-badge)
+
+> I'm currently working with some minecraft projects with JavaScript, a Discord Bot with NodeJs and some mobile apps with Dart/Flutter!
+> 
+> And taking Analysis and Systems Development classes in [UniOpet](https://www.opet.com.br/#)
+> 
+> 💬 If you want to get in touch, contact me on discord [PewDizinho#3014](https://cnpcscripts.com/pew) or on twitter [@PewDizinho_](https://twitter.com/PewDizinho_)! You can also look more about me in my [website](https://pewdizinho.github.io/).
+
+
+
+
+
+
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
